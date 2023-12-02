@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.connectPoint {
+  opacity: 0.2;
+}
+
+.connectPoint:hover {
+  opacity: 0.6;
+}

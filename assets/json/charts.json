@@ -1,0 +1,210 @@
+[
+  {
+    "text": "CH-1",
+    "handler": "left",
+    "boxId": "box2_1",
+    "status": 1,
+    "imgType": "ch",
+    "style": {
+      "color": "red"
+    },
+    "bounds": [],
+    "chartType": "chart",
+    "position": {
+      "x": 805,
+      "y": 718
+    }
+  },
+  {
+    "text": "CH-2",
+    "handler": "right",
+    "boxId": "box2_2",
+    "status": 1,
+    "imgType": "ch",
+    "style": {
+      "color": "red"
+    },
+    "bounds": [],
+    "chartType": "chart",
+    "position": {
+      "x": 1515.3438930511475,
+      "y": 221
+    }
+  },
+  {
+    "text": "CH-3",
+    "handler": "right",
+    "boxId": "box2_3",
+    "status": 1,
+    "imgType": "ch",
+    "style": {
+      "color": "red"
+    },
+    "bounds": [],
+    "chartType": "chart",
+    "position": {
+      "x": 563,
+      "y": 531
+    }
+  },
+  {
+    "text": "CHWS",
+    "handler": "top",
+    "boxId": "box2_4",
+    "status": 1,
+    "imgType": "none",
+    "style": {
+      "color": "red"
+    },
+    "bounds": [],
+    "chartType": "point",
+    "position": {
+      "x": 798,
+      "y": 1046.9999694824219
+    }
+  },
+  {
+    "text": "CHWR",
+    "handler": "top",
+    "boxId": "box2_5",
+    "status": 1,
+    "imgType": "none",
+    "style": {
+      "color": "red"
+    },
+    "bounds": [],
+    "chartType": "point",
+    "position": {
+      "x": 16,
+      "y": 1061.395362854004
+    }
+  },
+  {
+    "text": "CDWS",
+    "handler": "top",
+    "boxId": "box2_6",
+    "status": 1,
+    "imgType": "none",
+    "style": {
+      "color": "red"
+    },
+    "bounds": [],
+    "chartType": "point",
+    "position": {
+      "x": 700,
+      "y": 479
+    }
+  },
+  {
+    "text": "CDWR",
+    "handler": "top",
+    "boxId": "box2_7",
+    "status": 1,
+    "imgType": "none",
+    "style": {
+      "color": "red"
+    },
+    "bounds": [],
+    "chartType": "point",
+    "position": {
+      "x": -52,
+      "y": 139
+    }
+  },
+  {
+    "text": "CHWP-3",
+    "handler": "right",
+    "boxId": "box2_8",
+    "status": 1,
+    "imgType": "cdwp",
+    "style": {
+      "color": "red"
+    },
+    "bounds": [],
+    "chartType": "chart",
+    "position": {
+      "x": 667,
+      "y": 303
+    }
+  },
+  {
+    "text": "CHWP-4",
+    "handler": "right",
+    "boxId": "box2_9",
+    "status": 1,
+    "imgType": "cdwp",
+    "style": {
+      "color": "red"
+    },
+    "bounds": [],
+    "chartType": "chart",
+    "position": {
+      "x": 232,
+      "y": 303
+    }
+  },
+  {
+    "text": "CT-1",
+    "handler": "right",
+    "boxId": "box2_10",
+    "status": 1,
+    "imgType": "ct",
+    "style": {
+      "color": "red"
+    },
+    "bounds": [],
+    "chartType": "chart",
+    "position": {
+      "x": -98.33334350585938,
+      "y": 76
+    }
+  },
+  {
+    "text": "CH-4",
+    "handler": "right",
+    "boxId": "box2_11",
+    "status": 1,
+    "imgType": "ch",
+    "style": {
+      "color": "red"
+    },
+    "bounds": [],
+    "chartType": "chart",
+    "position": {
+      "x": -220.33341026306152,
+      "y": 906
+    }
+  },
+  {
+    "text": "CDWS Pump",
+    "handler": "top",
+    "boxId": "box2_12",
+    "status": 1,
+    "imgType": "none",
+    "style": {
+      "color": "red"
+    },
+    "bounds": [],
+    "chartType": "point",
+    "position": {
+      "x": 17,
+      "y": 81
+    }
+  },
+  {
+    "text": "CDWR Pump",
+    "handler": "top",
+    "boxId": "box2_13",
+    "status": 1,
+    "imgType": "none",
+    "style": {
+      "color": "red"
+    },
+    "bounds": [],
+    "chartType": "point",
+    "position": {
+      "x": 118.16761016845703,
+      "y": 524
+    }
+  }
+]

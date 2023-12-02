@@ -1,0 +1,362 @@
+[
+  {
+    "start": {
+      "boxId": "box2_3",
+      "arrowPosition": "right",
+      "offset": {
+        "y": -20,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_4",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "color": "blue",
+    "id": "box2_3@right@@box2_4@top"
+  },
+  {
+    "start": {
+      "boxId": "box2_11",
+      "arrowPosition": "right",
+      "offset": {
+        "y": -20,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_4",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "color": "blue",
+    "id": "box2_11@right@@box2_4@top"
+  },
+  {
+    "start": {
+      "boxId": "box2_5",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_11",
+      "arrowPosition": "left",
+      "offset": {
+        "y": -20,
+        "x": 0
+      }
+    },
+    "color": "red",
+    "id": "box2_5@top@@box2_11@left"
+  },
+  {
+    "start": {
+      "boxId": "box2_5",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_3",
+      "arrowPosition": "left",
+      "offset": {
+        "y": -20,
+        "x": 0
+      }
+    },
+    "color": "red",
+    "id": "box2_5@top@@box2_3@left"
+  },
+  {
+    "start": {
+      "boxId": "box2_3",
+      "arrowPosition": "left",
+      "offset": {
+        "y": 20,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_7",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "color": "#ff6e6e",
+    "id": "box2_3@left@@box2_7@top"
+  },
+  {
+    "start": {
+      "boxId": "box2_11",
+      "arrowPosition": "left",
+      "offset": {
+        "y": 20,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_7",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "color": "#ff6e6e",
+    "id": "box2_11@left@@box2_7@top"
+  },
+  {
+    "start": {
+      "boxId": "box2_6",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_3",
+      "arrowPosition": "right",
+      "offset": {
+        "y": 20,
+        "x": 0
+      }
+    },
+    "color": "#6ed9ff",
+    "id": "box2_6@top@@box2_3@right"
+  },
+  {
+    "start": {
+      "boxId": "box2_6",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_11",
+      "arrowPosition": "right",
+      "offset": {
+        "y": 20,
+        "x": 0
+      }
+    },
+    "color": "#6ed9ff",
+    "id": "box2_6@top@@box2_11@right"
+  },
+  {
+    "start": {
+      "boxId": "box2_5",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_1",
+      "arrowPosition": "left",
+      "offset": {
+        "y": -20,
+        "x": 0
+      }
+    },
+    "color": "red",
+    "id": "box2_5@top@@box2_1@left"
+  },
+  {
+    "start": {
+      "boxId": "box2_1",
+      "arrowPosition": "left",
+      "offset": {
+        "y": 20,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_7",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "color": "#ff6e6e",
+    "id": "box2_1@left@@box2_7@top"
+  },
+  {
+    "start": {
+      "boxId": "box2_1",
+      "arrowPosition": "right",
+      "offset": {
+        "y": -20,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_4",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "color": "blue",
+    "id": "box2_1@right@@box2_4@top"
+  },
+  {
+    "start": {
+      "boxId": "box2_6",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_1",
+      "arrowPosition": "right",
+      "offset": {
+        "y": 20,
+        "x": 0
+      }
+    },
+    "color": "#6ed9ff",
+    "id": "box2_6@top@@box2_1@right"
+  },
+  {
+    "start": {
+      "boxId": "box2_7",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_10",
+      "arrowPosition": "left",
+      "offset": {
+        "y": -20,
+        "x": 0
+      }
+    },
+    "color": "#ff6e6e",
+    "id": "box2_7@top@@box2_10@left"
+  },
+  {
+    "start": {
+      "boxId": "box2_12",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_8",
+      "arrowPosition": "top",
+      "offset": {
+        "x": -20,
+        "y": 0
+      }
+    },
+    "color": "#6ed9ff",
+    "id": "box2_12@top@@box2_8@top"
+  },
+  {
+    "start": {
+      "boxId": "box2_12",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_9",
+      "arrowPosition": "top",
+      "offset": {
+        "x": -20,
+        "y": 0
+      }
+    },
+    "color": "#6ed9ff",
+    "id": "box2_12@top@@box2_9@top"
+  },
+  {
+    "start": {
+      "boxId": "box2_10",
+      "arrowPosition": "right",
+      "offset": {
+        "y": -20,
+        "x": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_12",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "color": "#6ed9ff",
+    "id": "box2_10@right@@box2_12@top"
+  },
+  {
+    "start": {
+      "boxId": "box2_9",
+      "arrowPosition": "bottom",
+      "offset": {
+        "x": -20,
+        "y": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_6",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "color": "#6ed9ff",
+    "id": "box2_9@bottom@@box2_6@top"
+  },
+  {
+    "start": {
+      "boxId": "box2_8",
+      "arrowPosition": "bottom",
+      "offset": {
+        "x": -20,
+        "y": 0
+      }
+    },
+    "end": {
+      "boxId": "box2_6",
+      "arrowPosition": "top",
+      "offset": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "color": "#6ed9ff",
+    "id": "box2_8@bottom@@box2_6@top"
+  }
+]
